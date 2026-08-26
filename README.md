@@ -1,10 +1,11 @@
+#### Bio
 I am a Research Engineer in the [GeM Laboratory](https://gem.ec-nantes.fr/) at [Nantes University](https://www.univ-nantes.fr/), France. My current research focuses on **computational contact mechanics**. I completed my PhD from the Department of Aerospace Engineering at [IIT Bombay](https://www.iitb.ac.in/). During my doctoral research, I used computational and experimental approaches to investigate the blast mitigation and energy absorption characteristics of metallic and polymeric foams. Prior to my PhD, I worked as a CAE Engineer in Engine/Powertrain R&D at [Maruti Suzuki India Limited](https://www.marutisuzuki.com/). I hold a Bachelor's degree in Mechanical Engineering from the [NIT Srinagar](https://nitsri.ac.in/). 
 
-My research interests include computational and experimental solid mechanics, dynamic behavior of materials and structures under extreme loading, cellular and architectured materials, constitutive modeling, contact mechanics, topology optimization, and performance-driven material design. Recent updates on my research are given on the Work page. Things I am interested in apart from my work are given on the Personal page.
+#### Research Interests
+My research interests include computational and experimental solid mechanics, with a focus on the dynamic behavior of materials and structures under extreme loading, mechanics of cellular and architectured materials, constitutive modeling, contact mechanics, topology optimization, and performance-driven material design.
 
-#### Specializations: 
+#### Specializations
 - Computational Solid Mechanics | Contact Mechanics | Dynamic Behavior of Materials | Impact and Blast Mitigation
-
 
 #### Skills & Expertise
 - Core FEA & Simulation: ABAQUS, NASTRAN, Altair HyperWorks, OptiStruct, LS-DYNA, FEniCS
