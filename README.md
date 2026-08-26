@@ -2,10 +2,24 @@ I am a Research Engineer in the [GeM Laboratory](https://gem.ec-nantes.fr/) at [
 
 My research interests include computational and experimental solid mechanics, dynamic behavior of materials and structures under extreme loading, cellular and architectured materials, constitutive modeling, contact mechanics, topology optimization, and performance-driven material design. Recent updates on my research are given on the Work page. Things I am interested in apart from my work are given on the Personal page.
 
+#### Specializations: 
+- Computational Solid Mechanics | Contact Mechanics | Dynamic Behavior of Materials | Impact and Blast Mitigation
 
-### Connect With Me
-* [Personal Website](https://sites.google.com/view/bpsharmaiitb/home)
-* [bhanupratap.sharma@nantes-univ.fr](mailto:bhanupratap.sharma@nantes-univ.fr) | [bhanups1991@gmail.com](mailto:bhanups1991@gmail.com)
+
+#### Skills & Expertise
+- Core FEA & Simulation: ABAQUS, NASTRAN, Altair HyperWorks, OptiStruct, LS-DYNA, FEniCS
+- Programming & Scripting: Python, MATLAB, FORTRAN
+- Operating Systems & Tools: Linux, LaTeX, MS Office, GitHub (Personal Workflow)
+
+#### Public Profiles
+- [Personal Website](https://sites.google.com/view/bpsharmaiitb/home)
+- [LinkedIn](https://www.linkedin.com/in/bhanu-pratap-sharma-76691353/)
+- [Google Scholar](https://scholar.google.com/citations?user=_Rwpa00AAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/Bhanu-Pratap-Sharma)
+- [ORCID](https://orcid.org/0009-0008-6210-651X)
+
+#### Contact
+- [bhanupratap.sharma@nantes-univ.fr](mailto:bhanupratap.sharma@nantes-univ.fr) | [bhanups1991@gmail.com](mailto:bhanups1991@gmail.com)
 
 <!--
 **bhanups1991/bhanups1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
