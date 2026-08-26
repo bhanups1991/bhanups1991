@@ -1,43 +1,11 @@
-## Hi
+I am a Research Engineer in the [GeM Laboratory](https://gem.ec-nantes.fr/) at [Nantes University](https://www.univ-nantes.fr/), France. My current research focuses on **computational contact mechanics**. I completed my PhD from the Department of Aerospace Engineering at [IIT Bombay](https://www.iitb.ac.in/). During my doctoral research, I used computational and experimental approaches to investigate the blast mitigation and energy absorption characteristics of metallic and polymeric foams. Prior to my PhD, I worked as a CAE Engineer in Engine/Powertrain R&D at [Maruti Suzuki India Limited](https://www.marutisuzuki.com/). I hold a Bachelor's degree in Mechanical Engineering from the [NIT Srinagar](https://nitsri.ac.in/). 
 
-# Hi
+My research interests include computational and experimental solid mechanics, dynamic behavior of materials and structures under extreme loading, cellular and architectured materials, constitutive modeling, contact mechanics, topology optimization, and performance-driven material design. Recent updates on my research are given on the Work page. Things I am interested in apart from my work are given on the Personal page.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/bhanu-pratap-sharma-76691353/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://www.youtube.com/@bpsharma_yt"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
-</p>
 
----
-
-### 👨‍💻 About Me
-
-I am a Research Engineer in the [GeM Laboratory](https://gem.ec-nantes.fr/) at [Nantes University](https://www.univ-nantes.fr/), France. My current research focuses on **computational contact mechanics**. 
-
-* 🎓 **Ph.D.:** Department of Aerospace Engineering, [IIT Bombay](https://www.iitb.ac.in/), focusing on computational and experimental approaches for blast mitigation and energy absorption of metallic and polymeric foams.
-* 🚗 **Industry Experience:** Previously worked as a CAE Engineer in Engine/Powertrain R&D at [Maruti Suzuki India Limited](https://www.marutisuzuki.com/).
-* 🏛️ **Education:** B.Tech. in Mechanical Engineering from the [National Institute of Technology Srinagar](https://nitsri.ac.in/).
-
----
-
-### 🔬 Research Interests
-* Computational & experimental solid mechanics
-* Dynamic behavior of materials and structures under extreme loading
-* Cellular and architectured materials
-* Constitutive modeling & contact mechanics
-* Topology optimization & performance-driven material design
-
----
-
-### 🛠️ Tech Stack & Tools
-* **Simulation & Math:** FEniCS, UFL, Python, Finite Element Analysis (FEA)
-* **Development & Systems:** Linux, Git, Python scripting
-
----
-
-### 🌐 Connect With Me
-* **Website:** [Personal Portfolio](https://sites.google.com/view/bpsharmaiitb/home)
-* **Email:** [bhanupratap.sharma@nantes-univ.fr](mailto:bhanupratap.sharma@nantes-univ.fr) | [bhanups1991@gmail.com](mailto:bhanups1991@gmail.com)
+### Connect With Me
+* [Personal Website](https://sites.google.com/view/bpsharmaiitb/home)
+* [bhanupratap.sharma@nantes-univ.fr](mailto:bhanupratap.sharma@nantes-univ.fr) | [bhanups1991@gmail.com](mailto:bhanups1991@gmail.com)
 
 <!--
 **bhanups1991/bhanups1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
