@@ -20,4 +20,4 @@ My research interests include computational and experimental solid mechanics, wi
 - [ORCID](https://orcid.org/0009-0008-6210-651X)
 
 #### Contact
-- [bhanupratap.sharma@nantes-univ.fr](mailto:bhanupratap.sharma@nantes-univ.fr) | [bhanups1991@gmail.com](mailto:bhanups1991@gmail.com)
+- [bhanupratap.sharma@univ-nantes.fr](mailto:bhanupratap.sharma@univ-nantes.fr) | [bhanups1991@gmail.com](mailto:bhanups1991@gmail.com)
