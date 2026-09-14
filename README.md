@@ -13,7 +13,7 @@ My research interests include computational and experimental solid mechanics, wi
 - Operating Systems & Tools: Linux, LaTeX, MS Office, GitHub (Personal Workflow)
 
 #### Public Profiles
-- [Personal Website](https://sites.google.com/view/bpsharmaiitb/home)
+- [Research Website](https://bhanups1991.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/bhanu-pratap-sharma-76691353/)
 - [Google Scholar](https://scholar.google.com/citations?user=_Rwpa00AAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Bhanu-Pratap-Sharma)
